@@ -6,7 +6,7 @@
 
 - 🪵  Avid Programmer 
 
-- 🥣 I’m currently learning **App Devlopment**
+- 🥣 I’m currently learning **App  Development**
 
 - 💬 Ask me anything related to **Python, Flutter** and **Dart.**
 
