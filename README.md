@@ -71,11 +71,11 @@
 <!-- Fun Facts about me -->
 <h2 align="left" style="color:white;" > 🎧 Fun Facts about me ✨ </h2>
 
-- Suits is my All time Favourite TV Show.
+- Suits is my All time Favourite TV Show
 
-- I love emoji's a lot.
+- I love emoji's a lot
 
-- As a kid, I wanted to be an Engineer.
+- As a kid, I wanted to be an Engineer
 
 
 <!-- Check out repo -->
