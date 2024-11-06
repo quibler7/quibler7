@@ -1,82 +1,63 @@
-<h1 align="left" style="color:white;">👨🏻‍💻 Hi, I'm Chaitanya Jadhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Chaitanya Jadhav
 
-###
+## About Me
 
-<p align="left" style="color:white;">
+My name is Chaitanya Jadhav, and I am an aspiring app developer with a strong focus on creating innovative software solutions. I am currently pursuing a degree in Electronics and Telecommunication Engineering, where I have developed a keen interest in Dart and Flutter for mobile application development.
 
-- 🧠 My name is Chaitanya, and I am learning App development.
+I am actively involved in developing applications using Flutter, and I strive to enhance my skills through continuous learning and practical experience. In addition to my technical pursuits, I have a passion for photography, videography, and UI design. You can view my portfolio on [Bēhance](https://www.behance.net/quibler7).
 
-- 🚀 Currently, I'm pursuing a degree in E&TC Engineering 📚, and I have a strong passion for Dart/Flutter.
+For inquiries or collaboration opportunities, please feel free to contact me at: **chaitanyajadhav911@gmail.com**.
 
-- 🧩 I'm actively involved in creating software and applications using Flutter.
+---
 
-- 🔮 Apart from coding, I'm passionate about photography, videography and UI designing. Check out my work on [Bēhance](https://www.behance.net/quibler7).
+## Technical Skills
 
-- 📫 Reach out to me at : **chaitanyajadhav911@gmail.com**
+I am proficient in the following technologies:
 
-</p>
- 
-###
+- **Programming Languages:** Dart, Python
+- **Frameworks:** Flutter
+- **Databases:** MySQL, Firebase
+- **Tools & Software:** Android Studio, Visual Studio Code, Git, GitHub
+- **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro
 
-
-<!-- Tech Stack -->
-<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
-
-###
+You can view my complete skill set below:
 
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,mysql,py,anaconda,photoshop,pr,figma,vscode,androidstudio,git,github,&theme=dark" />
   </a>
- 
 </div>
 
-###
+---
 
+## Connect with Me
 
-<!-- My Socials -->
-<h2 align="left" style="color:white;" >🛸 My socials</h2>
+I welcome connections and discussions on various platforms:
 
-<div align="left">
-  <a href="https://www.behance.net/quibler7" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  /> </a>
-  <a href="https://chaitanyajadhav911@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> </a>
-  <a href="https://instagram.com/quibler7" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
-  <a href="https://www.linkedin.com/in/chaitanyajadhav18/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
-  <a href="https://linktr.ee/quibler7" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /> </a>
-  <a href="https://twitter.com/quibler7" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /> </a>
-  <a href="https://unsplash.com/quibler7" target="_blank"></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/unsplash/default.svg" width="52" height="40" alt="unsplash logo"  /> </a>
-</div>
+- [Behance](https://www.behance.net/quibler7)
+- [LinkedIn](https://www.linkedin.com/in/chaitanyajadhav18/)
+- [Instagram](https://instagram.com/quibler7)
+- [Twitter](https://twitter.com/quibler7)
+- [Linktree](https://linktr.ee/quibler7)
 
-###
+---
 
-<!-- Leetcode Profile -->
-<h2 align="left" style="color:white;" >🎮 Leetcode Profile</h2>
+## LeetCode Profile
 
-<div align="left">
-      
-  <a href="">![Leetcode Stats](https://leetcard.jacoblin.cool/quibler7?ext=heatmap)</a>
+You can view my LeetCode profile for coding challenges and statistics here: [LeetCode Profile](#)
 
-</div>
+---
 
-###
+## Additional Information
 
+### Interests
 
-<!-- Fun Facts about me -->
-<h2 align="left" style="color:white;" > 🎧 Fun Facts about me ✨ </h2>
+- My favorite television series is "Suits."
+- I have a strong affinity for visual storytelling through photography and videography.
+- My childhood aspiration was to become an engineer.
 
-- Suits is my All time Favourite TV Show
+---
 
-- I love emoji's a lot
+## Explore My Repositories
 
-- As a kid, I wanted to be an Engineer
-
-
-<!-- Check out repo -->
-<h2 align="left" style="color:white;" > Check out my Repositories down Below <img src="https://media.giphy.com/media/deKZM8D0orxwQ18qtB/giphy.gif?cid=ecf05e47p9z3oe68ztxvldi9tiasphuhpdftj7n1cjzpvt2f&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> </h2>
+Feel free to explore my repositories below for projects and contributions.
