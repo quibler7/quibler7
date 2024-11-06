@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Chaitanya Jadhav, and I am an aspiring app developer with a strong focus on creating innovative software solutions. I am currently pursuing a degree in Electronics and Telecommunication Engineering, where I have developed a keen interest in Dart and Flutter for mobile application development.
+My name is Chaitanya Jadhav, and I am an aspiring app developer with a strong focus on creating innovative software solutions. I have a degree in Electronics and Telecommunication Engineering, where I have developed a keen interest in Dart and Flutter for mobile application development.
 
 I am actively involved in developing applications using Flutter, and I strive to enhance my skills through continuous learning and practical experience. In addition to my technical pursuits, I have a passion for photography, videography, and UI design. You can view my portfolio on [Bēhance](https://www.behance.net/quibler7).
 
